@@ -1,4 +1,3 @@
-git-ignore.patch
 arch-powerpc-emulated-lwsync.patch
 arch-powerpc-jtag.patch
 arch-powerpc-warn-unmapped-irq.patch
