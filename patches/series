@@ -1,13 +1,3 @@
-arch-powerpc-emulated-lwsync.patch
-arch-powerpc-jtag.patch
-arch-powerpc-warn-unmapped-irq.patch
-arch-powerpc-os-driven-pci-maxpayload-readreq-setup.patch
-arch-powerpc-topology-info.patch
-arch-intel-centerton-pci-id.patch
-arch-intel-centerton-reboot-cf9.patch
-arch-intel-os-driven-pci-maxpayload-readreq-setup.patch
-arch-nr-gpio.patch
-kernel-overlayfs-v11.patch
 kernel-fs-overlayfs-inode.patch
 kernel-oom-proc-file-warning.patch
 kernel-nowarn-sysctl.patch
